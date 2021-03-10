@@ -1,3 +1,6 @@
 __pycache__
 .ipynb_checkpoints
 .DS_Store
+/model
+/cifar10
+*.gz
